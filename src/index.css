@@ -39,6 +39,9 @@ nav{
   font-size: 16px;
   line-height: 110%;
 }
+section{
+  padding: 10px 20px;
+}
 .card-container{
   display: flex;
   flex-wrap: nowrap;
@@ -85,4 +88,8 @@ nav{
 }
 .light{
   color: gray;
+}
+.visit-container{
+  display: flex;
+  flex-wrap: wrap;
 }
